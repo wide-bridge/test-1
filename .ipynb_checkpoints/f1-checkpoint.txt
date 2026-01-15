@@ -39,5 +39,3 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
-새로운 내용
-새롭고 새롭고 또 새로운 것 추가
